@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #E60000;
+    background-color: #ffffff;
   }
   
   .container {
@@ -27,7 +27,7 @@ body {
   .title {
     font-size: 24px;
     font-weight: bold;
-    color: white;
+    color: #E60000;
     margin-bottom: 20px;
   }
   
@@ -37,8 +37,8 @@ body {
     padding: 15px;
     font-size: 18px;
     font-weight: bold;
-    color: #E60000;
-    background-color: white;
+    color: #ffffff;
+    background-color: #E60000;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -47,12 +47,12 @@ body {
   }
   
   .activate-btn:hover {
-    background-color: #f0f0f0;
+    background-color: #E60000;
   }
   
   .activating {
     margin-top: 20px;
     font-size: 20px;
-    color: white;
+    color: #E60000;
   }
   
